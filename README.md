@@ -91,9 +91,9 @@ docker run -p 80:80 subject3-1
 
 팀 브랜딩이 적용된 멀티페이지 Flask 웹앱입니다.
 
-**팀 사진:**
+**구현 화면 (인트로 페이지):**
 
-<img src="Subject3_2/static/team_img.jpg" width="420" alt="Usually 팀 사진">
+<img src="intro_screenshot.png" width="500" alt="Usually 인트로 페이지 구현 화면">
 
 **페이지 구성:**
 
@@ -227,6 +227,3 @@ docker compose up --build
 | 정준희 | 팀원 |
 
 > 팀 GitHub: [CSID-DGU/2025-1-OSSPrac-usually-01](https://github.com/CSID-DGU/2025-1-OSSPrac-usually-01)
-
-
-
